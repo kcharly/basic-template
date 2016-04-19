@@ -1,0 +1,39 @@
+//////////////////////// Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+//////////////////////// Logs and DB
+*.log
+*.sql
+*.sqlite
+
+//////////////////////// OS generated files
+._*
+.DS_Store
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+Thumbs.db
+
+//////////////////////// Build Systems
+node_modules/
+bower_components/
+.bower-cache
+.bower-registry
+.bower-tmp
+.sass-cache/
+*.css.map
+design/
+build/
+dist/
