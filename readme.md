@@ -3,8 +3,8 @@ INFO_HERE
         Instruction
             - edit package.json pour le nom du site (NAME_HERE)
             - check gulpfile.js pour des modifications si besoin est
-            - get node-modules avec "npm install" dans le cmd
-            - get bower_components (jquery dans ce cas) avec "bower install" dans le cmd
+            - get and update node-modules avec "npm update --save-dev"
+            - get bower_components (jquery dans ce cas) avec "bower install"
             - add git support si besoin est... nouvelle configuration a faire
                 git init
                 git add .
